@@ -52,7 +52,7 @@
 </div>
 ```
 
-![pict6](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar7.jpg?token=GHSAT0AAAAAACILOCEPL5MB2EFHHZ6KO55YZI3CJUA)
+![pict6](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar7.jpg?token=GHSAT0AAAAAACILOCEPACJJGNCYQ6RWUJBSZI3CW7A)
 
 # Hasil Akhir
 
