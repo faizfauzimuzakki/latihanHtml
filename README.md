@@ -9,13 +9,13 @@
   tag-tag dasar HTML.</p>
 ```
 
-![pict1]()
+![pict1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar2.jpg?token=GHSAT0AAAAAACILOCEOPJ57LFOMRKXTODO2ZI3CP6A)
 
 ## Menambahkan Judul
 ```
 <h1 align = "center">BELAJAR HTML</h1>
 ```
-![pict2 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar3.jpg?token=GHSAT0AAAAAACILOCEPQJMYUYH22FSNJMVAZI3CEKA)
+![pict2 1]()
 
 ## Memformat teks
 ```
@@ -25,7 +25,7 @@
  </p>
 ```
 
-![pict3 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar1.jpg?token=GHSAT0AAAAAACILOCEPJVYY5LFG7DTIZFAKZI3CG4A)
+![pict3 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar2.jpg?token=GHSAT0AAAAAACILOCEOPJ57LFOMRKXTODO2ZI3CP6A)
 
 
 ## Menyisipkan Gambar
