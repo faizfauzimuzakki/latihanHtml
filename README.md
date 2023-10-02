@@ -1,4 +1,4 @@
-![image](https://github.com/faizfauzimuzakki/latihanHtml/assets/115791643/353fce79-fc4b-41ca-a017-12e6c2ef62de)# latihanHtml
+
 # Lab1web
 
 ## Membuat Paragraf
