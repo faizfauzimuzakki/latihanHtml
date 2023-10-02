@@ -1,4 +1,4 @@
-# latihanHtml
+![image](https://github.com/faizfauzimuzakki/latihanHtml/assets/115791643/353fce79-fc4b-41ca-a017-12e6c2ef62de)# latihanHtml
 # Lab1web
 
 ## Membuat Paragraf
@@ -9,13 +9,14 @@
   tag-tag dasar HTML.</p>
 ```
 
-![pict1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar2.jpg?token=GHSAT0AAAAAACILOCEOPJ57LFOMRKXTODO2ZI3CP6A)
+![pict1](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar1.jpg?raw=true)
 
 ## Menambahkan Judul
 ```
 <h1 align = "center">BELAJAR HTML</h1>
 ```
-![pict2 1]()
+![pict2 1](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar3.jpg?raw=true)
+)
 
 ## Memformat teks
 ```
@@ -25,7 +26,7 @@
  </p>
 ```
 
-![pict3 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar2.jpg?token=GHSAT0AAAAAACILOCEOPJ57LFOMRKXTODO2ZI3CP6A)
+![pict3 1](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar2.jpg?raw=true)
 
 
 ## Menyisipkan Gambar
@@ -36,15 +37,14 @@
 </div>
 ```
 
-![pict4 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar5.jpg?token=GHSAT0AAAAAACILOCEP4TAGEAT4R2HP5MJ2ZI3CH7Q)
-2
+![pict4 1](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar5.jpg?raw=true)
 
 ## Menambahkan Hyperlink
 ```
 <a href="https://www.pelitabangsa.ac.id/">Universitas Pelita Bangsa.</a>
 ```
 
-![pict5 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar6.jpg?token=GHSAT0AAAAAACILOCEO4YLFCDB4K2WLCOPSZI3CI5Q)
+![pict5 1](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar6.jpg?raw=true)
 
 ```
 <div class="toogle">
