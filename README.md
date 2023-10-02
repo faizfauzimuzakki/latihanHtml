@@ -9,7 +9,7 @@
   tag-tag dasar HTML.</p>
 ```
 
-![pict1](https://github.com/DimasF3009/Lab1web/assets/115356128/167c3374-4163-41b4-b4dc-ce7c0b540f42)
+![pict1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar1.jpg?token=GHSAT0AAAAAACILOCEPIBZRL6XFK2SOTID2ZI3CCZA)
 
 ## Menambahkan Judul
 ```
