@@ -25,7 +25,7 @@
  </p>
 ```
 
-![pict3 1](https://github.com/DimasF3009/Lab1web/assets/115356128/dbe08362-9b4e-4c31-ac7e-d69fe29a04b3)
+![pict3 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar1.jpg?token=GHSAT0AAAAAACILOCEPJVYY5LFG7DTIZFAKZI3CG4A)
 
 
 ## Menyisipkan Gambar
@@ -36,15 +36,15 @@
 </div>
 ```
 
-![pict4 1](https://github.com/DimasF3009/Lab1web/assets/115356128/93a6240a-4f11-480d-94a0-040e37a34b42)
-
+![pict4 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar5.jpg?token=GHSAT0AAAAAACILOCEP4TAGEAT4R2HP5MJ2ZI3CH7Q)
+2
 
 ## Menambahkan Hyperlink
 ```
 <a href="https://www.pelitabangsa.ac.id/">Universitas Pelita Bangsa.</a>
 ```
 
-![pict5 1](https://github.com/DimasF3009/Lab1web/assets/115356128/3c24611f-4fc3-4d76-95b7-43819264fd90)
+![pict5 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar6.jpg?token=GHSAT0AAAAAACILOCEO4YLFCDB4K2WLCOPSZI3CI5Q)
 
 ```
 <div class="toogle">
@@ -52,11 +52,11 @@
 </div>
 ```
 
-![pict6](https://github.com/DimasF3009/Lab1web/assets/115356128/3af2ff89-9049-41b8-acae-ec9dc12c787d)
+![pict6](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar7.jpg?token=GHSAT0AAAAAACILOCEPL5MB2EFHHZ6KO55YZI3CJUA)
 
 # Hasil Akhir
 
-![Screenshot (200)](https://github.com/DimasF3009/Lab1web/assets/115356128/9de5ee0b-ab95-404f-844c-79fa601474cf)
+![Screenshot (200)](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/last.png?token=GHSAT0AAAAAACILOCEPXWER36DIASUZHKCAZI3CKEA)
 
 
 # Latihan Soal
