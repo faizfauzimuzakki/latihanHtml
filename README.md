@@ -56,7 +56,7 @@
 
 # Hasil Akhir
 
-![Screenshot (200)](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/last.png?token=GHSAT0AAAAAACILOCEPXWER36DIASUZHKCAZI3CKEA)
+![Screenshot (200)](last.png)
 
 
 # Latihan Soal
