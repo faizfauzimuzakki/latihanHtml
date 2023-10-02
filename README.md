@@ -52,11 +52,11 @@
 </div>
 ```
 
-![pict6](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar7.jpg?token=GHSAT0AAAAAACILOCEPACJJGNCYQ6RWUJBSZI3CW7A)
+![pict6](https://github.com/faizfauzimuzakki/dkufgw/blob/main/gambar7.jpg?raw=true)
 
 # Hasil Akhir
 
-![Screenshot (200)](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/last.png?token=GHSAT0AAAAAACILOCEOQSB4HYZYKDBZ23ACZI3CVVQ)
+![Screenshot (200)](https://github.com/faizfauzimuzakki/dkufgw/blob/main/last.png?raw=true)
 
 
 # Latihan Soal
