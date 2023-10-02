@@ -15,7 +15,7 @@
 ```
 <h1 align = "center">BELAJAR HTML</h1>
 ```
-![pict2 1](https://github.com/DimasF3009/Lab1web/assets/115356128/af07e124-aa0d-4d89-ad85-955574b56929)
+![pict2 1](https://raw.githubusercontent.com/faizfauzimuzakki/dkufgw/main/gambar3.jpg?token=GHSAT0AAAAAACILOCEPQJMYUYH22FSNJMVAZI3CEKA)
 
 ## Memformat teks
 ```
